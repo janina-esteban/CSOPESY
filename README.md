@@ -1,4 +1,5 @@
 # CSOPESY
+## Janina Angela M. Esteban
 
 This program simulates a basic command-line utility that mimics the output of the nvidia-smi command for NVIDIA GPUs. It provides mock information about the GPU, such as its performance, memory usage, and dummy processes. The user can input specific commands to trigger the corresponding outputs or exit the program.
 
